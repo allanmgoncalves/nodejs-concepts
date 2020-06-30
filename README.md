@@ -28,5 +28,5 @@ atualização e remoção dos repositórios, e além disso permitir que os repos
 
 ---
 
-By AllanCoder 🚀
+By AllanCoder 🚀<br>
 Instagram: @allan.coder
